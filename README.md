@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kushal Pathak</h1>
 <h3 align="center">Knowledge-hungry developer</h3>
+<img alt="coding" width="400" align="right" src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/media/e93c404a9544c94b99bbc8574f7b8626.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushal-pathak&label=Profile%20views&color=0e75b6&style=flat" alt="kushal-pathak" /> </p>
 
