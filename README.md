@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **Physics Engine Projects**
 
-- 🤝 I’m looking for help with **None**
-
 - 👨‍💻 All of my projects are available at [kushalpathak.com.np](kushalpathak.com.np)
 
 - 💬 Ask me about **C++,NODE**
