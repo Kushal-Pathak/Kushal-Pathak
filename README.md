@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Snake Game](https://github.com/Kushal-Pathak/Snake-Game)
 
-- 🌱 I’m currently learning **WXWidgets**
+- 🌱 I’m currently learning **OpenGL**
 
 - 👯 I’m looking to collaborate on **Physics Engine Projects**
 
