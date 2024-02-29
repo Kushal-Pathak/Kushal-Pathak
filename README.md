@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushal-pathak&label=Profile%20views&color=0e75b6&style=flat" alt="kushal-pathak" /> </p>
 
-- 🔭 I’m currently working on [Snake Game](https://github.com/Kushal-Pathak/Snake-Game)
+- 🔭 I’m currently working on college **FYP**
 
-- 🌱 I’m currently learning **OpenGL**
+- 🌱 I’m currently learning **PHP, Flask**
 
 - 👯 I’m looking to collaborate on **Physics Engine Projects**
 
 - 👨‍💻 All of my projects are available at [kushalpathak.com.np](kushalpathak.com.np)
 
-- 💬 Ask me about **C++,NODE**
+- 💬 Ask me about **C++,NODE,PHP**
 
 - 📫 How to reach me **kushalpathak80@gmail.com**
 
