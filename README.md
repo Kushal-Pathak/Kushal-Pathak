@@ -7,17 +7,17 @@
 
 - 🔭 I’m currently working on college **FYP**
 
-- 🌱 I’m currently learning **PHP, Flask**
+- 🌱 I’m currently learning about **NEURAL-NETWORKS**
 
 - 👯 I’m looking to collaborate on **Physics Engine Projects**
 
 - 👨‍💻 All of my projects are available at [kushalpathak.com.np](kushalpathak.com.np)
 
-- 💬 Ask me about **C++,NODE,PHP**
+- 💬 Ask me about **SIMULATION,GRAPHICS-PROGRAMMING**
 
 - 📫 How to reach me **kushalpathak80@gmail.com**
 
-- ⚡ Fun fact **I can't C#**
+- ⚡ Fun fact **I can C#**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
