@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Kalo Algebra** - a linear algebra library.
 - 🌱 I’m learning **AI/ML**
-- 💡 I love exploring **AT/ML, Simulations, Game Engines, Graphics Programming**
+- 💡 I love exploring **AI/ML, Simulations, Game Engines, Graphics Programming**
 - 📫 Reach me at **kushalpathak80@gmail.com**
 
 ---
