@@ -35,6 +35,7 @@
 | ------------------------------------------------------------- | -------------------------- | ---------- |
 | [YelpCamp](https://github.com/Kushal-Pathak/yelpcamp)         | A social site for campers. | MEN stack  |
 | [Kalo Algebra](https://github.com/Kushal-Pathak/Kalo-Algebra) | A linear algebra library.  | C++        |
+| [Chat App](https://github.com/Kushal-Pathak/Chat-App) | A global web chat app.  | NODE.js        |
 
 ---
 
