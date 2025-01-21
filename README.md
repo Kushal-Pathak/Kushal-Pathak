@@ -20,12 +20,12 @@
 
 ### 🏆 Achievements
 
-- 🥇 Best Science Project Award – District Education Department
-- 🥇 Best Presentation Award (+2 Level, 2018) – Gurukul College
-- 🥇 Second Place, Provathon 2021 (Regional) – CSITAN Chitwan
 - 📜 CS50x – Harvard University
 - 📜 Complete Web Development Bootcamp – Dr. Angela Yu
 - 📜 Microsoft Office Specialist for Office PowerPoint 2013 – Microsoft
+- 🥇 Best Science Project Award – District Education Department
+- 🥇 Best Presentation Award (+2 Level, 2018) – Gurukul College
+- 🥇 Second Place, Provathon 2021 (Regional) – CSITAN Chitwan
 
 ---
 
