@@ -34,12 +34,10 @@
 | Project                                                       | Description                | Tech Stack |
 | ------------------------------------------------------------- | -------------------------- | ---------- |
 | [Password Manager](https://github.com/Kushal-Pathak/Password-Manager) | A website to manage passwords.  | PHP, MYSQL        |
+| [Global Chat App](https://github.com/Kushal-Pathak/Gobal-Chat-App) | A global web chat app.  | NODE.js        |
 | [YelpCamp](https://github.com/Kushal-Pathak/yelpcamp)         | A social site for campers. | MEN stack  |
-| [Kalo Algebra](https://github.com/Kushal-Pathak/Kalo-Algebra) | A linear algebra library.  | C++        |
-| [Chat App](https://github.com/Kushal-Pathak/Chat-App) | A global web chat app.  | NODE.js        |
 | [AI/ML](https://github.com/Kushal-Pathak/Neural-Networks) | Artificial Neural Networks.  | p5.js        |
-
-
+| [Kalo Algebra](https://github.com/Kushal-Pathak/Kalo-Algebra) | A linear algebra library.  | C++        |
 
 ---
 
