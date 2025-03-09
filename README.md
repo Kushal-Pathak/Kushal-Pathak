@@ -33,6 +33,7 @@
 
 | Project                                                       | Description                | Tech Stack |
 | ------------------------------------------------------------- | -------------------------- | ---------- |
+| [Prompt Engineering Sandbox](https://github.com/Kushal-Pathak/prompt-engineering-sandbox) | An interactive web based prompt engineering sandbox simulator.  | Next.js, Tailwind CSS        |
 | [Digital Logic Simulator](https://github.com/Kushal-Pathak/Final-Year-Project) | An interactive web based digital logic simulator.  | HTML, CSS, JS, PHP, MYSQL        |
 | [Password Manager](https://github.com/Kushal-Pathak/Password-Manager) | A website to manage passwords.  | HTML, CSS, JS, PHP, MYSQL        |
 | [Global Chat App](https://github.com/Kushal-Pathak/Gobal-Chat-App) | A global web chat app.  | HTML, CSS, JS, NODE.js, Express        |
