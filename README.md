@@ -12,7 +12,7 @@
 ### ⚡ Tech Stack
 
 - **Languages**: C, C++, C#, Java, JavaScript, Python, PHP
-- **Frameworks/Tools**: Node.js, React.js, Flask, Express, p5.js, SFML, Raylib, OpenGL
+- **Frameworks/Tools**: Node.js, React.js, Next.js, Flask, Express, p5.js, SFML, Raylib, OpenGL
 - **Databases**: MySQL, MongoDB
 - **Others**: Git, CMake, Docker, Photoshop, Figma
 
