@@ -2,7 +2,7 @@
 
 ### 💻 About Me
 
-- 🔭 I’m currently working on **Kalo Algebra** - a linear algebra library.
+- 🔭 I’m currently working on **Workout App** - a web app to track workouts.
 - 🌱 I’m learning **AI/ML**
 - 💡 I love exploring **AI/ML, Simulations, Game Engines, Graphics Programming**
 - 📫 Reach me at **kushalpathak80@gmail.com**
@@ -12,8 +12,8 @@
 ### ⚡ Tech Stack
 
 - **Languages**: C, C++, C#, Java, JavaScript, Python, PHP
-- **Frameworks/Tools**: Node.js, React.js, Next.js, Flask, Express, p5.js, SFML, Raylib, OpenGL
-- **Databases**: MySQL, MongoDB
+- **Frameworks/Tools**: Node.js, React.js, Next.js, Flask, Express, p5.js, SFML, Raylib, OpenGL, Postman
+- **Databases**: MySQL, Sqlite, MongoDB
 - **Others**: Git, CMake, Docker, Photoshop, Figma
 
 ---
@@ -22,6 +22,7 @@
 
 - 📜 CS50x – Harvard University
 - 📜 Complete Web Development Bootcamp – Dr. Angela Yu
+- 📜 Machine Learning Specialization – Andrew Ng
 - 📜 Microsoft Office Specialist for Office PowerPoint 2013 – Microsoft
 - 🥇 Best Science Project Award – District Education Department
 - 🥇 Best Presentation Award (+2 Level, 2018) – Gurukul College
