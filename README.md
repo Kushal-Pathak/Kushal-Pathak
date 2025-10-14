@@ -1,58 +1,38 @@
-# Hi there, I'm Kushal 👋
+# 👋 Hi, I'm Kushal Pathak
 
-### 💻 About Me
-
-- 🔭 I’m currently working on **Workout App** - a web app to track workouts.
-- 🌱 I’m learning **AI/ML**
-- 💡 I love exploring **AI/ML, Simulations, Game Engines, Graphics Programming**
-- 📫 Reach me at **kushalpathak80@gmail.com**
+I'm a **Fullstack Web Developer** who loves building **production-grade apps** for enterprises.  
+I enjoy solving problems that live at the intersection of **code, creativity, and curiosity** — especially in the areas of **simulations** and **machine learning**.
 
 ---
 
-### ⚡ Tech Stack
-
-- **Languages**: C, C++, C#, Java, JavaScript, Python, PHP
-- **Frameworks/Tools**: Node.js, React.js, Next.js, Flask, Express, p5.js, SFML, Raylib, OpenGL, Postman
-- **Databases**: MySQL, Sqlite, MongoDB
-- **Others**: Git, CMake, Docker, Photoshop, Figma
+### 🚀 What I Do
+- Build fullstack applications using **JavaScript**, **Node.js**, **React**, **Next.js**, and **MongoDB**  
+- Focus on clean architecture, performance, and user experience  
+- Experiment with simulations and try to bring real-world systems to life through code  
 
 ---
 
-### 🏆 Achievements
-
-- 📜 CS50x – Harvard University
-- 📜 Complete Web Development Bootcamp – Dr. Angela Yu
-- 📜 Machine Learning Specialization – Andrew Ng
-- 📜 Microsoft Office Specialist for Office PowerPoint 2013 – Microsoft
-- 🥇 Best Science Project Award – District Education Department
-- 🥇 Best Presentation Award (+2 Level, 2018) – Gurukul College
-- 🥇 Second Place, Provathon 2021 (Regional) – CSITAN Chitwan
+### 🌱 What I’m Learning
+Currently diving deeper into **machine learning** and exploring ways to integrate intelligent behavior into web applications.
 
 ---
 
-### 🚀 Featured Projects
-
-| Project                                                       | Description                | Tech Stack |
-| ------------------------------------------------------------- | -------------------------- | ---------- |
-| [Prompt Engineering Sandbox](https://github.com/Kushal-Pathak/prompt-engineering-sandbox) | An interactive web based prompt engineering sandbox simulator.  | Next.js, Tailwind CSS        |
-| [Digital Logic Simulator](https://github.com/Kushal-Pathak/Final-Year-Project) | An interactive web based digital logic simulator.  | HTML, CSS, JS, PHP, MYSQL        |
-| [Password Manager](https://github.com/Kushal-Pathak/Password-Manager) | A website to manage passwords.  | HTML, CSS, JS, PHP, MYSQL        |
-| [Global Chat App](https://github.com/Kushal-Pathak/Gobal-Chat-App) | A global web chat app.  | HTML, CSS, JS, NODE.js, Express        |
-| [YelpCamp](https://github.com/Kushal-Pathak/yelpcamp)         | A social site for campers. | MEN stack  |
-| [AI/ML](https://github.com/Kushal-Pathak/Neural-Networks) | Artificial Neural Networks.  | p5.js        |
-| [Kalo Algebra](https://github.com/Kushal-Pathak/Kalo-Algebra) | A linear algebra library.  | C++        |
+### 🎯 My Goal
+To grow into a **Senior Engineer** capable of designing scalable, efficient systems — and mentoring others along the way.
 
 ---
 
-### 🌟 Let's Connect
-
-- 🌐 [Website](kushalpathak.com.np)
-- 🐦 [Twitter](https://x.com/KushalPathak7)
-- 💼 [LinkedIn](https://www.linkedin.com/in/kushal-pathak-9501121a4)
-- 📂 [GitHub](https://github.com/Kushal-Pathak)
+### 💡 Fun Stuff
+When I’m not coding, you’ll probably find me:
+- 🎮 Playing PC games  
+- 🏔️ Hiking or exploring nature on weekends  
 
 ---
 
-⭐ **Fun Fact**: I can C#
+### 📫 Let’s Connect
+I love meeting curious developers and tech enthusiasts!  
+You can reach out to me for collaborations, ideas, or just a friendly chat about code and creativity.
 
 ---
+
+⭐️ *"Code it. Break it. Fix it. Learn from it."*
