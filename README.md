@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Kushal Pathak
+# Hi, I'm Kushal Pathak
 
 **Full-Stack Software Engineer**
 
 **Tech Stack:**  
-MongoDB, Next.js, React, Node.js, Express, Redis, SQL, MUI, Tailwind CSS, shadcn/ui
+MongoDB, Next.js, React, Node.js, Express, Redis, SQL, MUI, Tailwind CSS, shadcn/ui, R, Python
 
 **Education:**  
 Bachelor’s in Computer Science & Information Technology  
