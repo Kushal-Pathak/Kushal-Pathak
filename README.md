@@ -3,7 +3,7 @@
 **Full-Stack Software Engineer**
 
 **Tech Stack:**  
-MongoDB, Next.js, React, Node.js, Express, Redis, SQL, MUI, Tailwind CSS, shadcn/ui, R, Python
+MongoDB, Next.js, React, Node.js, Express, Redis, SQL, MUI, Tailwind CSS, shadcn/ui, R, Python, MySQL
 
 **Education:**  
 Bachelor’s in Computer Science & Information Technology  
