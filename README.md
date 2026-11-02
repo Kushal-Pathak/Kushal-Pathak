@@ -1,6 +1,6 @@
 # Hi, I'm Kushal Pathak
 
-**Full-Stack Software Engineer**
+**Full-Stack Software Engineer**  
 I understand business problems, design systems that solve them, and integrate those systems into real business workflows.
 
 **Tech Stack:**  
